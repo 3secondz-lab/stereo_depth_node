@@ -1,0 +1,3 @@
+# ninja log v5
+1	7492	1616561497908341017	/home/ys/Research/stereo_depth_node/src/thirdparty/aanet/nets/deform_conv/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	ae0dca11bc385b9c
+1	13795	1616561504208300121	/home/ys/Research/stereo_depth_node/src/thirdparty/aanet/nets/deform_conv/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	ed84f4be049dd236
